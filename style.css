@@ -25,17 +25,17 @@ body {
 }
 
 body h2 {
-    background-color: #1a8655;
+    background-color: #fd8427;
     display: inline-block;
     margin-inline-start: 9rem;
     margin-right: 70px;
     margin-top: 15px;
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
 }
 
 body h3 {
     display: inline-block;
-    margin-inline-start: 8rem;
+    margin-inline-start: 8.4rem;
     font: size 16px;
     font-family: calibri;
     margin-right: 290px;
@@ -69,7 +69,7 @@ body h3 {
     background-color: rgb(185, 253, 253);
     border: solid 2px;
     margin-bottom: 3.3rem;
-    margin-left: 126px;
+    margin-left: 130px;
     max-width: 300px;
     text-align: justify;
     font-size: 20px;
@@ -79,8 +79,8 @@ body h3 {
     background-color: rgb(185, 253, 253);
     border: solid 2px;
     margin-bottom: 2rem;
-    margin-left: 165px;
-    max-width: 305px;
+    margin-left: 171px;
+    max-width: 300px;
     text-align: justify;
     font-size: 20px;
 }
@@ -89,7 +89,7 @@ body h3 {
     background-color: rgb(185, 253, 253);
     border: solid 2px;
     margin-bottom: 16rem;
-    margin-left: 160px;
+    margin-left: 168px;
     max-width: 300px;
     text-align: justify;
     font-size: 20px;
