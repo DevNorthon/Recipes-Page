@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.tittle {
+    text-align: center;
+    font-size: 45px;
+    background-color: #fd8427;
+    font-family: georgia;
+    font-style: italic;
+}
+
+div {
+    display: inline-block;
+    margin-inline: 1rem;
+    margin-block-start: 1rem;
+    position: relative;
+    overflow: hidden;
+}
+
+body {
+    background-color: #c4f7f0;
+}
+
+body h2 {
+    background-color: #1a8655;
+    display: inline-block;
+    margin-inline-start: 9rem;
+    margin-right: 70px;
+    margin-top: 15px;
+    color: rgb(255, 255, 255);
+}
+
+body h3 {
+    display: inline-block;
+    margin-inline-start: 8rem;
+    font: size 16px;
+    font-family: calibri;
+    margin-right: 290px;
+}
+
+.list-itemLeft {
+    background-color: rgb(185, 253, 253);
+    border: solid 2px;
+    margin-left: 130px;
+    margin-bottom: 23px;
+    font-size: 20px;
+}
+
+.list-itemCenter {
+    background-color: rgb(185, 253, 253);
+    border: solid 2px;
+    margin-left: 228px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.list-itemRight {
+    background-color: rgb(185, 253, 253);
+    border: solid 2px;
+    margin-left: 136px;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+.list-DirectionsLeft {
+    background-color: rgb(185, 253, 253);
+    border: solid 2px;
+    margin-bottom: 3.3rem;
+    margin-left: 126px;
+    max-width: 300px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.list-DirectionsCenter {
+    background-color: rgb(185, 253, 253);
+    border: solid 2px;
+    margin-bottom: 2rem;
+    margin-left: 165px;
+    max-width: 305px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.list-DirectionRight {
+    background-color: rgb(185, 253, 253);
+    border: solid 2px;
+    margin-bottom: 16rem;
+    margin-left: 160px;
+    max-width: 300px;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.img-coockies {
+    border: solid 8px;
+    margin-inline-start: 3.5rem;
+    align-items: left;
+}
+
+.img-mousse {
+    border: solid 8px;
+    margin-inline-start: 3rem;
+    align-items: center;
+}
+
+.img-LemonPie {
+    border: solid 8px;
+    margin-inline-start: 3rem;
+    align-items: right;
+}
